@@ -1,3 +1,4 @@
+// Mateusz Maciejewski - zmiana testowa
 #pragma once
 
 #include <memory>
